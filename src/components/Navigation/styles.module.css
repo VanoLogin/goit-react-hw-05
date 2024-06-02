@@ -1,0 +1,18 @@
+.navigation {
+  display: flex;
+  gap: 20px;
+}
+.link {
+  background-color: bisque;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+
+.navLink {
+  color: black;
+  font-size: 18px;
+  font-weight: 500;
+}
+.active {
+  color: orangered;
+}
